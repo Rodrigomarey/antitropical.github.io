@@ -5,10 +5,9 @@
 
 .uno {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     margin-top: 0;
     margin-left: 100px;
     gap: 12px;
-    width: 89.75em;
-    height: 182.625em;
+
 }
