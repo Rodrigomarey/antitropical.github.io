@@ -2,5 +2,12 @@
     height: 182.625em;
     margin-left: 100px;
     gap: 12px;
+        <img src="assets/imgs/back2.jpg" alt="."/> 
+    <a href="./msn.html" target="_blank">msn</a>
 
+    <div class="dos">
     
+    <a href="./msn.html" target="_blank">
+        <img src="assets/imgs/back2.jpg" alt="."/>
+</a>
+</div>
